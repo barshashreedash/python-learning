@@ -1,0 +1,8 @@
+name= input("Enter Your Name : ")
+age = input("Enter Your age : ")
+mark = input("Enter Your Marks : ")
+print("WeLCOME" , name)
+print("age = " , age)
+print("Mark = " , mark)
+val = int(input("Enter The value :"))
+print(type(val),val)
