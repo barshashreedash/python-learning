@@ -5,4 +5,4 @@ copylist.reverse()
 if(copylist == list):
     print("It's a palindrome ")
 else:
-    print("Not a palindrome ")    
+    print("Not a palindrome ")        
