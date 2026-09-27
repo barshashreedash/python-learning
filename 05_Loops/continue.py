@@ -1,0 +1,8 @@
+#Continue --> terminates execution in the current iteration & continues execution of the loop with next iteration .
+i = 0
+while i <= 6:
+    if(i == 3):
+        i += 1
+        continue #skip
+    print(i)
+    i += 1 
